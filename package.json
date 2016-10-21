@@ -1,0 +1,24 @@
+{
+  "name": "pull-cat-map",
+  "version": "0.0.0",
+  "description": "Map pull-streams to other pull-streams then concat together",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmckegg/pull-cat-map.git"
+  },
+  "keywords": [
+    "pull",
+    "stream",
+    "through"
+  ],
+  "author": "Matt McKegg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmckegg/pull-cat-map/issues"
+  },
+  "homepage": "https://github.com/mmckegg/pull-cat-map#readme"
+}
