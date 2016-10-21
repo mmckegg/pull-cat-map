@@ -1,6 +1,6 @@
 {
   "name": "pull-cat-map",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Map pull-streams to other pull-streams then concat together",
   "main": "index.js",
   "scripts": {
